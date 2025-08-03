@@ -29,14 +29,14 @@ This GUI-based application allows users to play the classic game **Rock-Paper-Sc
 python rps_game.py
 
 # 📸 Screenshot
-(Add screenshot here if available)
+![RockPaperScissors](https://github.com/user-attachments/assets/12c3875c-4044-4b0b-a561-43da9e372797)
 
 # 📁 File Structure
-bash
-Copy
-Edit
+
 rps_game.py       # Main game script
 README.md         # Project documentation
+
+
 # 👤 Author
 SHIWANSH MISHRA
 
@@ -47,8 +47,4 @@ https://github.com/shiwanshm66
 
 # 📄 License
 This project is open-source and free to use for educational and personal purposes.
-
-yaml
-Copy
-Edit
 
